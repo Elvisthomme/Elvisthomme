@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elvis THOMME
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on many programming language
 - 📫 How to reach me ...
 
